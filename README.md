@@ -18,8 +18,7 @@ Core Objectives
 
     The Finding: Identified that 3 transactions within 24 hours for nominal amounts (₹1.00 - ₹3.00) serve as a leading indicator for future high-value fraud.
 
-    Action: By catching 'Anshu Kant' at this stage, the system prevents the "Big Move" before it happens.
-   Bank-Fraud-Detection-Analysis/dubai_anshu_kant.jpg
+    Action: By catching 'Anshu Kant' at this stage, the system prevents the "Big Move" before it happens
   
 
 *The red dot on the far right represents Amit Shah (High Value), and the high-point represents Anshu Kant (High Velocity).*
