@@ -10,3 +10,9 @@ Core Objectives
     Behavioral Logic: Implement "Velocity Gates" to detect rapid-fire bot transactions (Card Testing).
 
     Risk Categorization: Isolate high-value anomalies and geographical outliers.
+## 💡 Key Analytical Insights
+> *How I translated raw data into banking security intelligence:*
+
+1. **Velocity Tracking:** Found that 3+ daily transactions are a fingerprint for bot-driven card testing.
+2. **Location Risk:** Isolated high-value anomalies by filtering for "UNKNOWN" and "International" locations.
+3. **Data Integrity:** Built a SQL pipeline to neutralize "dirty" data that often hides fraudulent patterns.
